@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+}
+.navigationBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  list-style-type: none;
+  background-color: antiquewhite;
+}
+.navigationBar li {
+  padding: 10px;
+  font-size: 25px;
+}
+.navigationBar li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.active {
+  border-radius: 10px;
+  background-color: aqua;
+  padding: 10px;
+}

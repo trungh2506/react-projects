@@ -2,6 +2,11 @@
 
 ## What is Redux?
 Redux is a pattern and library for managing and updating application state, using events called "actions".
+Redux is really:
+
+-  **A single store containing "global" state**
+-  **Dispatching plain object actions to the store when something happens in the app**
+-  **Pure reducer functions looking at those actions and returning immutably updated state**
 
 ## Why Should You Use Redux?
 The patterns and tools provided by Redux make it easier to understand when, where, why, and how the state in your application is being updated, and how your application logic will behave when those changes occur.

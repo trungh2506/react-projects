@@ -42,3 +42,11 @@ The patterns and tools provided by Redux make it easier to understand when, wher
 
 ## What is Redux Toolkit?
 Redux Toolkit is a set of tools and best practices that reduces boilerplate code and simplifies Redux usage.
+## What is purpose RTK?
+Redux Toolkit was originally created to help address three common concerns about Redux:
+-  **"Configuring a Redux store is too complicated"**
+-  **"I have to add a lot of packages to get Redux to do anything useful"**
+-  **"Redux requires too much boilerplate code"**
+## What is included Redux have?
+![RTK-included](https://redux.js.org/redux-toolkit/overview#whats-included)
+

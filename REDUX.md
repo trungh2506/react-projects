@@ -48,5 +48,5 @@ Redux Toolkit was originally created to help address three common concerns about
 -  **"I have to add a lot of packages to get Redux to do anything useful"**
 -  **"Redux requires too much boilerplate code"**
 ## What is included Redux have?
-![RTK-included](https://redux.js.org/redux-toolkit/overview#whats-included)
+(https://redux.js.org/redux-toolkit/overview#whats-included)
 
